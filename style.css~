@@ -12,18 +12,22 @@ text-align:center;
 width:100%;
 }
 
+h1{
+color:transparent;
+}
 
 #head{
 height:330px;
 width:100%;
 background-color:white;
-padding-bottom:100px;
+background-image: url(../bg.jpg);
 }
 
 #head-buffer{
 height:100px;
 width:100%;
 background-color:#fff;
+background-image: url(../bg.jpg);
 }
 
 #headline{
@@ -68,7 +72,7 @@ margin-top:-30px;
 }
 
 #content{
-
+padding-top:100px;
 }
 
 #left{
@@ -77,6 +81,10 @@ width: 80px;
 height: calc(100% - 100px);
 position:absolute;
 margin-top:100px;
+}
+
+#bottom{
+height:50px;
 }
 
 .post-cat{

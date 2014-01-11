@@ -13,17 +13,18 @@ width:100%;
 }
 
 
+
 #head{
 height:330px;
 width:100%;
 background-color:white;
-padding-bottom:100px;
 }
 
 #head-buffer{
 height:100px;
 width:100%;
 background-color:#fff;
+background-image: url(../bg.jpg);
 }
 
 #headline{
@@ -68,7 +69,7 @@ margin-top:-30px;
 }
 
 #content{
-
+padding-top:100px;
 }
 
 #left{
