@@ -5,7 +5,11 @@
 		<link rel="stylesheet" media="screen" type="text/css" href="style.css">
 	</head>
 	<body>
+		<div id="left">
+				<p class="post-cat"></p>
+		</div>
 		<div id="head">
+			<div id="head-buffer"></div>
 			<div id="headline">
 				<div class="center">
 					<div id="h1-wrapper">
@@ -20,21 +24,23 @@
 				<h2>dev blog by andreas haberl</h2>
 			</div>	
 		</div>
+		
 		<div id="content">
+			
 			<div class="center">
-				<div class="post">
-					<div class="post-heading">why simplicity</div>
+				<div class="post"></p>
+					<div class="post-heading">why simplicity<p class="post-date">10/01/2014</p></div>
 					<div class="post-content">Einfachheit, oder auch Primitivität, ist ein Zustand, der sich dadurch auszeichnet, dass nur wenige Faktoren zu seinem Entstehen oder Bestehen beitragen, und dadurch, dass das Zusammenspiel dieser Faktoren durch nur wenige Regeln beschrieben werden kann. Damit ist Einfachheit das Gegenteil von Komplexität. In der wissenschaftlichen Logik gilt das Prinzip, einen gegebenen Sachverhalt mit so wenigen Elementen wie möglich, somit unter möglichster Vermeidung unnötig komplexer Kausalketten zu erklären.<br><br>
 
-Einfachheit kann sowohl positiv als auch negativ bewertet werden.
+Einfachheit kann sowohl positiv als auch negativ bewertet werden.<br><br>
 
-Einfachheit gilt als erstrebenswert, wenn mit wenigen Mitteln möglichst viel erreicht werden kann. Dann ist sie ein Synonym für Minimalismus, Klarheit oder Simplizität (Weniger ist mehr). Antike Naturphilosophen forderten, dass eine wahre Theorie nicht nur schön (im Sinne einer logischen, in sich stimmigen Struktur) und gut (d. h. funktional und konkret umsetzbar) sein sollte, sondern auch einfach. Diese Ansicht vertrat auch Albert Einstein.
+Einfachheit gilt als erstrebenswert, wenn mit wenigen Mitteln möglichst viel erreicht werden kann. Dann ist sie ein Synonym für Minimalismus, Klarheit oder Simplizität (Weniger ist mehr). Antike Naturphilosophen forderten, dass eine wahre Theorie nicht nur schön (im Sinne einer logischen, in sich stimmigen Struktur) und gut (d. h. funktional und konkret umsetzbar) sein sollte, sondern auch einfach. Diese Ansicht vertrat auch Albert Einstein.<br><br>
 
-In der Musikästhetik der Frühklassik avancierte Einfachheit zum Kompositionsideal, das den überladenen barocken Stil ablöste. Die achttaktige Periode wurde zur Basiseinheit des kompositorischen Satzes. Auch im Liedschaffen wurde Einfachheit zum Ideal, das sich an einfach strukturierten Volksliedern orientierte. Die Neue Einfachheit ist ein vager Sammelbegriff für Kompositionen seit den späten 1970er Jahren, die sich nicht mehr an der artifiziellen Komplexität von Zwölftonmusik, Serialismus und Atonalität orientieren.
+In der Musikästhetik der Frühklassik avancierte Einfachheit zum Kompositionsideal, das den überladenen barocken Stil ablöste. Die achttaktige Periode wurde zur Basiseinheit des kompositorischen Satzes. Auch im Liedschaffen wurde Einfachheit zum Ideal, das sich an einfach strukturierten Volksliedern orientierte. Die Neue Einfachheit ist ein vager Sammelbegriff für Kompositionen seit den späten 1970er Jahren, die sich nicht mehr an der artifiziellen Komplexität von Zwölftonmusik, Serialismus und Atonalität orientieren.<br><br>
 
-Gemälde der modernen Kunst zeichnen sich ebenso oft durch eine einfache Struktur aus. Hier gilt Einfachheit als ästhetisch (z. B. Komposition aus großen, einfarbigen Quadraten bei Mark Rothko).
+Gemälde der modernen Kunst zeichnen sich ebenso oft durch eine einfache Struktur aus. Hier gilt Einfachheit als ästhetisch (z. B. Komposition aus großen, einfarbigen Quadraten bei Mark Rothko).<br><br>
 
-Ferner streben viele moderne Menschen nach Einfachheit in der Lebensführung, also z. B. beim Essen oder im Urlaub als Kontrast zum oft als unübersichtlich komplex empfundenen modernen Alltags- und Berufsleben.
+Ferner streben viele moderne Menschen nach Einfachheit in der Lebensführung, also z. B. beim Essen oder im Urlaub als Kontrast zum oft als unübersichtlich komplex empfundenen modernen Alltags- und Berufsleben.<br><br>
 
 Andererseits gilt Einfachheit als schlecht, wenn in einem bestimmten Bereich Komplexität das Ideal ist. So mag ein einfacher Mensch von anderen als uninteressant oder sogar dumm empfunden werden.
 </div>
