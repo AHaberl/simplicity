@@ -85,8 +85,8 @@ font-size:60px;
 font-weight:bold;
 transform: rotate(-90deg);
 position:fixed;
-left:-80px;
-top:500px;
+left:-55px;
+top:550px;
 }
 
 .center{
